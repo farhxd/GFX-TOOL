@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1063757311044",
+    "firebase_url": "https://xd-gfx-default-rtdb.firebaseio.com",
+    "project_id": "xd-gfx",
+    "storage_bucket": "xd-gfx.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063757311044:android:4d2905520869e5dadf2011",
+        "android_client_info": {
+          "package_name": "com.iam1xd.gfx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvdVO1OPVORYhW06ed_3xn2XTj7JYQ7bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
